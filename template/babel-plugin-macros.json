@@ -1,0 +1,8 @@
+const isDev = process.env.REACT_APP_ENVIRONMENT !== 'prod'
+
+module.exports = {
+  styledComponents: {
+    fileName: isDev,
+    displayName: isDev,
+  },
+}
