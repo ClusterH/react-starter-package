@@ -1,21 +1,4 @@
-# React Starter Template with Typescript, Styled-Components, Web3 Configuration
-
-This is the customized TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
-Integrated web3 wallet connections, web3 configurations to interact with smart contract, built style system with styled-components.
-
-To use this template, add `--template @clusterh/react-starter-app` when creating a new app.
-
-For example:
-
-```sh
-npx create-react-app my-app --template @clusterh/react-starter
-
-# or
-
-yarn create react-app my-app --template @clusterh/react-starter
-```
-
-## Creat Own React App Template
+## Creat Own React App Template (CRA)
 
 [![Node version](https://img.shields.io/node/v/@clusterh/cra-template-react-starter.svg?style=flat)](http://nodejs.org/download/)
 [![npm](https://img.shields.io/npm/dm/@clusterh/cra-template-react.starter.svg)](https://www.npmjs.com/package/@clusterh/cra-template-react-starter)
