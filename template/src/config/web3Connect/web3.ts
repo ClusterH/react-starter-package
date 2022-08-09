@@ -23,8 +23,8 @@ export const SUPPORTED_CHAIN_IDS: SupportedChainId[] = [SupportedChainId.MAIN, S
 type AddressMap = { [chainId: number]: string }
 
 export const EXAMPLE_CONTRACT_ADDRESSES: AddressMap = {
-  [SupportedChainId.MAIN]: 'Mainnet contract address',
-  [SupportedChainId.GOERLI_TESTNET]: 'testnet contract address',
+  [SupportedChainId.MAIN]: 'Mainnet contract address in Here',
+  [SupportedChainId.GOERLI_TESTNET]: 'testnet contract address in Here',
 }
 
 export const CONTRACT_ABIS = {

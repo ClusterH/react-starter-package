@@ -1,15 +1,26 @@
 {
   "name": "@clusterh/cra-template-react-starter",
-  "version": "0.0.1",
+  "author": "Cluster",
+  "version": "0.0.3",
    "keywords": [
     "react",
     "create-react-app",
     "template",
+    "blockchain",
+    "dapp",
     "web3",
-    "typescript"
+    "ethers",
+    "typescript",
+    "types",
+    "redux",
+    "styled-components",
+    "axios"
   ],
   "main": "template.json",
   "license": "MIT",
+  "engines": {
+    "node": ">=16.8.0"
+  },
   "homepage": "https://github.com/ClusterH/react-starter-package.git",
   "repository": {
     "type": "git",
